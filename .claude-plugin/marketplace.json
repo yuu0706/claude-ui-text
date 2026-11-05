@@ -1,0 +1,14 @@
+{
+  "name": "claude-ui-text",
+  "description": "画面に表示する文言（ボタン・エラー・確認・空の状態・自動送信のメール）の決まり",
+  "owner": {
+    "name": "yuu0706"
+  },
+  "plugins": [
+    {
+      "name": "ui-text",
+      "source": "./plugins/ui-text",
+      "description": "画面に表示する文言（ボタン・エラー・確認・空の状態・自動送信のメール）の決まり"
+    }
+  ]
+}

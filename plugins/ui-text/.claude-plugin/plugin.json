@@ -1,0 +1,9 @@
+{
+  "name": "ui-text",
+  "version": "1.0.0",
+  "description": "画面に表示する文言（ボタン・エラー・確認・空の状態・自動送信のメール）の決まり",
+  "author": {
+    "name": "yuu0706"
+  },
+  "license": "MIT"
+}
